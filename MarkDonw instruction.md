@@ -41,3 +41,5 @@
 
 **Список команд** для работы с удаленными репозиториями:
 * git branch -M main (или как угодно мы хотим)
+* git remote add origin (URL paste here)
+* 
