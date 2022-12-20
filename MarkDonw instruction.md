@@ -44,3 +44,8 @@
 * git remote add origin (URL paste here)
 * **git push** - отправить локальные изменения на сервер в GitHub
 * **git add** - получить/скачать информацию с удаленного репозитория на GitHub
+
+Далее еще пару полезных комманд:
+* _git remote show origin_ - показать к чему привязан origin (URL)
+* _git commit -a_ - сразу закоммитить без git add, данная комана относится просто к git'у
+
